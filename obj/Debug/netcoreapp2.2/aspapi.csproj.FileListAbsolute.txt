@@ -1,0 +1,14 @@
+G:\aspapi\bin\Debug\netcoreapp2.2\aspapi.deps.json
+G:\aspapi\bin\Debug\netcoreapp2.2\aspapi.runtimeconfig.json
+G:\aspapi\bin\Debug\netcoreapp2.2\aspapi.runtimeconfig.dev.json
+G:\aspapi\bin\Debug\netcoreapp2.2\aspapi.dll
+G:\aspapi\bin\Debug\netcoreapp2.2\aspapi.pdb
+G:\aspapi\obj\Debug\netcoreapp2.2\aspapi.csprojAssemblyReference.cache
+G:\aspapi\obj\Debug\netcoreapp2.2\aspapi.csproj.CoreCompileInputs.cache
+G:\aspapi\obj\Debug\netcoreapp2.2\aspapi.RazorAssemblyInfo.cache
+G:\aspapi\obj\Debug\netcoreapp2.2\aspapi.RazorAssemblyInfo.cs
+G:\aspapi\obj\Debug\netcoreapp2.2\aspapi.AssemblyInfoInputs.cache
+G:\aspapi\obj\Debug\netcoreapp2.2\aspapi.AssemblyInfo.cs
+G:\aspapi\obj\Debug\netcoreapp2.2\aspapi.RazorTargetAssemblyInfo.cache
+G:\aspapi\obj\Debug\netcoreapp2.2\aspapi.dll
+G:\aspapi\obj\Debug\netcoreapp2.2\aspapi.pdb
